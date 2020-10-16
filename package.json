@@ -70,7 +70,7 @@
     "js-sequence-diagrams": "^1000000.0.6",
     "js-yaml": "^3.12.0",
     "katex": "^0.9.0",
-    "lodash": "^4.11.1",
+    "lodash": "^4.17.19",
     "lodash-move": "^1.1.1",
     "markdown-it": "^6.0.1",
     "markdown-it-abbr": "^1.0.4",
